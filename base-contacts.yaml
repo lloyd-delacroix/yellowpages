@@ -1,0 +1,892 @@
+contacts:
+#  Player:
+#    guild:
+#    race:
+#    circle:
+#    relationship:
+#    notes:
+#    alts:
+#    - Name 1
+#    - Name 2
+  airaman:
+    guild: Barbarian
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  aftermath:
+    guild: Cleric
+    race:
+    circle: 200
+    relationship:
+    notes:
+    alts:
+  apte:
+    guild: Cleric
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  basthet:
+    guild: Cleric
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  bazarith:
+    guild: Barbarian
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  bertan:
+    guild: Cleric
+    race:
+    circle: 151
+    relationship:
+    notes:
+    alts:
+  blackavar:
+    guild: Cleric
+    race:
+    circle: 158
+    relationship:
+    notes:
+    alts:
+  boriz:
+    guild: Cleric
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  breyog:
+    guild: Barbarian
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  buuwl:
+    guild: Barbarian
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  cadderrly:
+    guild: Cleric
+    race:
+    circle: 123
+    relationship:
+    notes:
+    alts:
+  caelane:
+    guild: Cleric
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  caidie:
+    guild: Barbarian
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  cainec:
+    guild: Barbarian
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  chuno:
+    guild: Barbarian
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  chynna:
+    guild: Empath
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  cordiax:
+    guild: Barbarian
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  crounchmeyer:
+    guild: Cleric
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  dahaita:
+    guild: Empath
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  dartaniun:
+    guild: Cleric
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  dethrirohs:
+    guild: Cleric
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  draac:
+    guild: Cleric
+    race:
+    circle: 135
+    relationship:
+    notes:
+    alts:
+  dreaderic:
+    guild: Barbarian
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  drevid:
+    guild: Barbarian
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  dullen:
+    guild: Barbarian
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  ecleus:
+    guild: Barbarian
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  eladrin:
+    guild: Warrior Mage
+    race:
+    circle: 164
+    relationship:
+    notes:
+    alts:
+  embrace:
+    guild: Cleric
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  enwah:
+    guild: Barbarian
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  ephic:
+    guild: Cleric
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  erixx:
+    guild: Warrior Mage
+    race:
+    circle: 196
+    relationship:
+    notes:
+    alts:
+  evro:
+    guild: Cleric
+    race:
+    circle: 165
+    relationship:
+    notes:
+    alts:
+  fimath:
+    guild: Warrior Mage
+    race:
+    circle: 195
+    relationship:
+    notes:
+    alts:
+  flavius:
+    guild: Cleric
+    race:
+    circle: 125
+    relationship:
+    notes:
+    alts:
+  gabellia:
+    guild: Cleric
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  gabin:
+    guild: Cleric
+    race:
+    circle: 151
+    relationship:
+    notes:
+    alts:
+  goou:
+    guild: Cleric
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  gorteous:
+    guild: Barbarian
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  gremtrak:
+    guild: Cleric
+    race:
+    circle: 154
+    relationship:
+    notes:
+    alts:
+  hammerfist:
+    guild: Barbarian
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  ikrin:
+    guild: Empath
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  iloru:
+    guild: Ranger?
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  ironjonn:
+    guild: Barbarian
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  jadyce:
+    guild: Empath
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  jaibriel:
+    guild: Cleric
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  jalich:
+    guild: Barbarian
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  jerhedrin:
+    guild: Cleric
+    race:
+    circle: 164
+    relationship:
+    notes:
+    alts:
+  jhaason:
+    guild: Cleric
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  junzaa:
+    guild: Warrior Mage
+    race:
+    circle: 169
+    relationship:
+    notes:
+    alts:
+  kaelie:
+    guild: Empath
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  kalira:
+    guild: Cleric
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  keirran:
+    guild: Empath
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  kendus:
+    guild: Barbarian
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  kheldas:
+    guild: Cleric
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  kiritan:
+    guild: Cleric
+    race:
+    circle: 163
+    relationship:
+    notes:
+    alts:
+  klurn:
+    guild: Barbarian
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  krononzeck:
+    guild: Cleric
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  krystha:
+    guild: Cleric
+    race:
+    circle: 159
+    relationship:
+    notes:
+    alts:
+  kyarakat:
+    guild: Empath
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  kyodan:
+    guild: Cleric
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  lalouisa:
+    guild: Barbarian
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  lamrick:
+    guild: Cleric
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  langa:
+    guild: Cleric
+    race:
+    circle: 151
+    relationship:
+    notes:
+    alts:
+  liurilias:
+    guild: Cleric
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  lovasus:
+    guild: Barbarian
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  magrid:
+    guild: Cleric
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  marmic:
+    guild: Empath
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  merrila:
+    guild: Empath
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  mircea:
+    guild: Cleric
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  mordimer:
+    guild: Warrior Mage
+    race:
+    circle: 164
+    relationship:
+    notes:
+    alts:
+  neeno:
+    guild: Cleric
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  nonomis:
+    guild: Cleric
+    race:
+    circle: 131
+    relationship:
+    notes:
+    alts:
+  nyrella:
+    guild: Empath
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  ohiyesa:
+    guild: Cleric
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  ozban:
+    guild: Cleric
+    race:
+    circle: 180
+    relationship:
+    notes:
+    alts:
+  penethol:
+    guild: Barbarian
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  phii:
+    guild: Barbarian
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  phoul:
+    guild: Barbarian
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  pranx:
+    guild: Barbarian
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  rayyoln:
+    guild: Warrior Mage
+    race:
+    circle: 200
+    relationship:
+    notes:
+    alts:
+  razhak:
+    guild: Barbarian
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  renni:
+    guild: Cleric
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  reshelheim:
+    guild: Cleric
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  rhadyn:
+    guild: Barbarian
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  rubei:
+    guild: Cleric
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  ryain:
+    guild: Barbarian
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  rys:
+    guild: Warrior Mage
+    race:
+    circle: 158
+    relationship:
+    notes:
+    alts:
+  rze:
+    guild: Cleric
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  sarkranis:
+    guild: Empath
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  schalva:
+    guild: Cleric
+    race:
+    circle: 158
+    relationship:
+    notes:
+    alts:
+  segmere:
+    guild: Cleric
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  sekmeht:
+    guild: Barbarian
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  shaidval:
+    guild: Cleric
+    race:
+    circle: 150
+    relationship:
+    notes:
+    alts:
+  shenae:
+    guild: Cleric
+    race:
+    circle: 136
+    relationship:
+    notes:
+    alts:
+  shingi:
+    guild: Cleric
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  shunasazi:
+    guild: Cleric
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  sladen:
+    guild: Cleric
+    race:
+    circle: 161
+    relationship:
+    notes:
+    alts:
+  sophrona:
+    guild: Empath
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  squanto:
+    guild: Barbarian
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  stilva:
+    guild: Cleric
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  stoupe:
+    guild: Cleric
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  suehara:
+    guild: Cleric
+    race:
+    circle: 164
+    relationship:
+    notes:
+    alts:
+  syntyche:
+    guild: Warrior Mage
+    race: Gnome
+    circle: 20
+    relationship:
+    notes:
+    alts:
+  syraah:
+    guild: Cleric
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  syrakk:
+    guild: Cleric
+    race:
+    circle: 131
+    relationship:
+    notes:
+    alts:
+  tabetha:
+    guild: Cleric
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  tarlof:
+    guild: Warrior Mage
+    race:
+    circle: 200
+    relationship:
+    notes:
+    alts:
+  teel:
+    guild: Cleric
+    race:
+    circle: 124
+    relationship:
+    notes:
+    alts:
+  teflawn:
+    guild: Warrior Mage
+    race:
+    circle: 177
+    relationship:
+    notes:
+    alts:
+  telutci:
+    guild: Barbarian
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  tenike:
+    guild: Cleric
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  tramin:
+    guild: Warrior Mage
+    race:
+    circle: 175
+    relationship:
+    notes:
+    alts:
+  toreakas:
+    guild: Barbarian
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  truix:
+    guild: Empath
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  tyrun:
+    guild: Cleric
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  valkri:
+    guild: Cleric
+    race:
+    circle: 125
+    relationship:
+    notes:
+    alts:
+  vandergrift:
+    guild: Barbarian
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  veresa:
+    guild: Cleric
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  vibrato:
+    guild: Barbarian
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  vyras:
+    guild: Cleric
+    race:
+    circle: 133
+    relationship:
+    notes:
+    alts:
+  weeks:
+    guild: Cleric
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  whiteburn:
+    guild: Cleric
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  zankas:
+    guild: Barbarian
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  zarachie:
+    guild: Cleric
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  zaxor:
+    guild: Warrior Mage
+    race:
+    circle: 183
+    relationship:
+    notes:
+    alts:
+  zeeve:
+    guild: Warrior Mage
+    race:
+    circle: 169
+    relationship:
+    notes:
+    alts:  

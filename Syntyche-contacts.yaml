@@ -1,0 +1,124 @@
+contacts:
+  clron:
+    guild: Warrior Mage
+    race:
+    circle: 69
+    relationship: Licher
+    notes:
+    alts:
+  crobin:
+    guild: Thief
+    race:
+    circle: 50
+    relationship: Family
+    notes: Big Bro
+    alts:
+  dagtimlee:
+    guild: Moon Mage
+    race:
+    circle: 20
+    relationship: Friend
+    notes: Best buddy
+    alts:
+  enwah:
+    guild: Barbarian
+    race:
+    circle:
+    relationship: Family
+    notes: Uncle
+    alts:
+  feltzer:
+    guild: Barbarian
+    race:
+    circle:
+    relationship: Licher
+    notes:
+    alts:
+  kalleis:
+    guild: Cleric
+    race:
+    circle:
+    relationship: Licher
+    notes:
+    alts:
+  kekahuna:
+    guild: Thief
+    race:
+    circle:
+    relationship: Family
+    notes: Dad
+    alts:
+  meantermel:
+    guild: Barbarian
+    race:
+    circle: 150
+    relationship: Family
+    notes: Mom
+    alts:
+  missah:
+    guild: Moon Mage
+    race:
+    circle:
+    relationship: Licher
+    notes:
+    alts:
+  remedi:
+    guild: Empath
+    race:
+    circle:
+    relationship: Licher
+    notes:
+    alts:
+  sdo:
+    guild: Warrior Mage
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  tallen:
+    guild: Thief
+    race:
+    circle: 46
+    relationship:
+    notes:
+    alts:
+  tarlof:
+    guild: Warrior Mage
+    race:
+    circle: 200
+    relationship: Friend
+    notes: Really nice, helped answer lots of questions
+    alts:
+    - tarlov
+  tarlov:
+    guild:
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+    - tarlof
+  tirost:
+    guild: Warrior Mage
+    race:
+    circle:
+    relationship: Friend
+    notes: Very nice, always friendly at the guild.
+    alts:
+  syntyche:
+    guild: Warrior Mage
+    race: Gnome
+    circle: 20
+    relationship: Best buds
+    notes: Super totally awesome!
+    alts:
+    - syntyche2
+    - syntyche3
+  laflakapa:
+    guild: Thief
+    race:
+    circle: 
+    relationship: Family
+    notes: Great guy. Very sneaky, but a terrible thief.
+    alts:
