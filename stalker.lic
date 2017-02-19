@@ -20,6 +20,7 @@ if File.exist?('./scripts/profiles/'+checkname+'-contacts.yaml')
 
 	Contacts.merge!(Personal_Contacts)
 	Names = Contacts.map {|row| row[0]}
+	puts "***Successfully loaded " + Names.length.to_s + " contacts."
 	
 	#DEBUG INFO
 	#puts "---Names Array---"
