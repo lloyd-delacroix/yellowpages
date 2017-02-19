@@ -8,9 +8,72 @@ contacts:
 #    alts:
 #    - Name 1
 #    - Name 2
-  airaman:
-    guild: Barbarian
-    race:
+  aashja:
+    guild: Bard
+    race: Elf
+    circle: 138
+    relationship:
+    notes:
+    alts:
+  aayveia:
+    guild: Moon Mage
+    race: 
+    circle:
+    relationship:
+    notes:
+    alts:
+  abselom:
+    guild: Moon Mage
+    race: 
+    circle:
+    relationship:
+    notes:
+    alts:
+  acerbity:
+    guild: Empath
+    race: Rakash
+    circle:
+    relationship:
+    notes:
+    alts:
+  acynarian:
+    guild: Empath
+    race: Human
+    circle:
+    relationship:
+    notes:
+    alts:
+  addalyn:
+    guild: Warrior Mage
+    race: Elf
+    circle: 162
+    relationship:
+    notes:
+    alts:
+  addrius:
+    guild: Moon Mage
+    race: 
+    circle:
+    relationship:
+    notes:
+    alts:
+  adinonn:
+    guild: Bard
+    race: Elf 
+    circle:
+    relationship:
+    notes:
+    alts:
+  aerathor:
+    guild: Moon Mage
+    race: 
+    circle:
+    relationship:
+    notes:
+    alts:
+  aevel:
+    guild: Empath
+    race: Elothean
     circle:
     relationship:
     notes:
@@ -21,10 +84,122 @@ contacts:
     circle: 200
     relationship:
     notes:
+    alts:  
+  airaman:
+    guild: Barbarian
+    race: Elothean
+    circle:
+    relationship:
+    notes:
+    alts:
+  akodam:
+    guild: Empath
+    race: Dwarf
+    circle:
+    relationship:
+    notes:
+    alts:
+  aluriaz:
+    guild: Moon Mage
+    race: 
+    circle:
+    relationship:
+    notes:
+    alts:
+  andorell:
+    guild: Warrior Mage
+    race: Human
+    circle: 160
+    relationship:
+    notes:
     alts:
   apte:
     guild: Cleric
     race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  arcaneor:
+    guild: Moon Mage
+    race: 
+    circle:
+    relationship:
+    notes:
+    alts:
+  ariya:
+    guild: Bard
+    race: Elf 
+    circle:
+    relationship:
+    notes:
+    alts:
+  arsenyka:
+    guild: Moon Mage
+    race: 
+    circle:
+    relationship:
+    notes:
+    alts:
+  artarashai:
+    guild: Warrior Mage
+    race: Human
+    circle: 169
+    relationship:
+    notes:
+    alts:
+  asrea:
+    guild: Empath
+    race: Human
+    circle:
+    relationship:
+    notes:
+    alts:
+  asuran:
+    guild: Moon Mage
+    race: 
+    circle:
+    relationship:
+    notes:
+    alts:
+  atanamir:
+    guild: Warrior Mage
+    race: Human
+    circle: 160
+    relationship:
+    notes:
+    alts:
+  atazai:
+    guild: Moon Mage
+    race: 
+    circle:
+    relationship:
+    notes:
+    alts:
+  aysta:
+    guild: Moon Mage
+    race: 
+    circle:
+    relationship:
+    notes:
+    alts:
+  azkaban:
+    guild: Bard
+    race: Elf 
+    circle: 118
+    relationship:
+    notes:
+    alts:
+  baggs:
+    guild: Empath
+    race: Dwarf
+    circle:
+    relationship:
+    notes:
+    alts:
+  ballantyne:
+    guild: Moon Mage
+    race: 
     circle:
     relationship:
     notes:
@@ -36,9 +211,23 @@ contacts:
     relationship:
     notes:
     alts:
+  baum:
+    guild: Bard
+    race: Prydaen 
+    circle:
+    relationship:
+    notes:
+    alts:
   bazarith:
     guild: Barbarian
-    race:
+    race: Kaldar
+    circle:
+    relationship:
+    notes:
+    alts:
+  belladulce:
+    guild: Bard
+    race: Elf 
     circle:
     relationship:
     notes:
@@ -47,6 +236,20 @@ contacts:
     guild: Cleric
     race:
     circle: 151
+    relationship:
+    notes:
+    alts:
+  bethanna:
+    guild: Bard
+    race: Elf 
+    circle: 151
+    relationship:
+    notes:
+    alts:
+  blaayd:
+    guild: Bard
+    race: Elf 
+    circle:
     relationship:
     notes:
     alts:
@@ -66,14 +269,28 @@ contacts:
     alts:
   breyog:
     guild: Barbarian
-    race:
+    race: Gor'Tog
+    circle:
+    relationship:
+    notes:
+    alts:
+  broichan:
+    guild: Bard
+    race: Kaldar 
+    circle:
+    relationship:
+    notes:
+    alts:
+  buluc:
+    guild: Bard
+    race: Elf 
     circle:
     relationship:
     notes:
     alts:
   buuwl:
     guild: Barbarian
-    race:
+    race: Gor'Tog
     circle:
     relationship:
     notes:
@@ -94,7 +311,7 @@ contacts:
     alts:
   caidie:
     guild: Barbarian
-    race:
+    race: Elf
     circle:
     relationship:
     notes:
@@ -103,6 +320,41 @@ contacts:
     guild: Barbarian
     race:
     circle:
+    relationship:
+    notes:
+    alts:
+  caprizzio:
+    guild: Bard
+    race: Human 
+    circle:
+    relationship:
+    notes:
+    alts:
+  caraamon:
+    guild: Barbarian
+    race: Gor'Tog
+    circle:
+    relationship:
+    notes:
+    alts:
+  cayra:
+    guild: Empath
+    race: Human
+    circle:
+    relationship:
+    notes:
+    alts:
+  ceranora:
+    guild: Moon Mage
+    race: 
+    circle:
+    relationship:
+    notes:
+    alts:
+  chelinde:
+    guild: Bard
+    race: Elf 
+    circle: 160
     relationship:
     notes:
     alts:
@@ -116,6 +368,34 @@ contacts:
   chynna:
     guild: Empath
     race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  cinamod:
+    guild: Moon Mage
+    race: 
+    circle:
+    relationship:
+    notes:
+    alts:
+  codiax:
+    guild: Barbarian
+    race: Human
+    circle:
+    relationship:
+    notes:
+    alts:
+  collain:
+    guild: Barbarian
+    race: Human
+    circle:
+    relationship:
+    notes:
+    alts:
+  coralin:
+    guild: Moon Mage
+    race: 
     circle:
     relationship:
     notes:
@@ -134,9 +414,23 @@ contacts:
     relationship:
     notes:
     alts:
+  daerte:
+    guild: Moon Mage
+    race: 
+    circle:
+    relationship:
+    notes:
+    alts:
   dahaita:
     guild: Empath
-    race:
+    race: Elf
+    circle:
+    relationship:
+    notes:
+    alts:
+  darkese:
+    guild: Moon Mage
+    race: 
     circle:
     relationship:
     notes:
@@ -148,9 +442,44 @@ contacts:
     relationship:
     notes:
     alts:
+  daryn:
+    guild: Moon Mage
+    race: 
+    circle:
+    relationship:
+    notes:
+    alts:
+  derivan:
+    guild: Bard
+    race: Human 
+    circle: 140
+    relationship:
+    notes:
+    alts:
   dethrirohs:
     guild: Cleric
     race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  devien:
+    guild: Bard
+    race: Rakash 
+    circle:
+    relationship:
+    notes:
+    alts:
+  dianelle:
+    guild: Empath
+    race: Elf
+    circle:
+    relationship:
+    notes:
+    alts:
+  doherty:
+    guild: Empath
+    race: Human
     circle:
     relationship:
     notes:
@@ -162,37 +491,79 @@ contacts:
     relationship:
     notes:
     alts:
+  drachefeuer:
+    guild: Moon Mage
+    race: 
+    circle:
+    relationship:
+    notes:
+    alts:
   dreaderic:
     guild: Barbarian
-    race:
+    race: Human
+    circle:
+    relationship:
+    notes:
+    alts:
+  dreamheart:
+    guild: Bard
+    race: Human 
     circle:
     relationship:
     notes:
     alts:
   drevid:
     guild: Barbarian
-    race:
+    race: Gor'Tog
+    circle:
+    relationship:
+    notes:
+    alts:
+  drunstan:
+    guild: Barbarian
+    race: Human
     circle:
     relationship:
     notes:
     alts:
   dullen:
     guild: Barbarian
-    race:
+    race: Gor'Tog
     circle:
+    relationship:
+    notes:
+    alts:
+  ebeneizer:
+    guild: Bard
+    race: Gor'Tog 
+    circle: 126
     relationship:
     notes:
     alts:
   ecleus:
     guild: Barbarian
-    race:
+    race: Gor'Tog
+    circle:
+    relationship:
+    notes:
+    alts:
+  edgee:
+    guild: Barbarian
+    race: Elothean
+    circle:
+    relationship:
+    notes:
+    alts:
+  elabela:
+    guild: Moon Mage
+    race: 
     circle:
     relationship:
     notes:
     alts:
   eladrin:
     guild: Warrior Mage
-    race:
+    race: Elothean
     circle: 164
     relationship:
     notes:
@@ -204,10 +575,24 @@ contacts:
     relationship:
     notes:
     alts:
+  emyrose:
+    guild: Bard
+    race: Human 
+    circle:
+    relationship:
+    notes:
+    alts:
   enwah:
     guild: Barbarian
-    race:
+    race: Gor'Tog
     circle:
+    relationship:
+    notes:
+    alts:
+  eoworfinia:
+    guild: Bard
+    race: halfling 
+    circle: 122
     relationship:
     notes:
     alts:
@@ -220,7 +605,7 @@ contacts:
     alts:
   erixx:
     guild: Warrior Mage
-    race:
+    race: Human
     circle: 196
     relationship:
     notes:
@@ -232,10 +617,38 @@ contacts:
     relationship:
     notes:
     alts:
+  eyuve:
+    guild: Moon Mage
+    race: 
+    circle:
+    relationship:
+    notes:
+    alts:
+  favre:
+    guild: Empath
+    race: Prydaen
+    circle:
+    relationship:
+    notes:
+    alts:
+  fernwren:
+    guild: Empath
+    race: Dwarf
+    circle:
+    relationship:
+    notes:
+    alts:
   fimath:
     guild: Warrior Mage
-    race:
+    race: Dwarf
     circle: 195
+    relationship:
+    notes:
+    alts:
+  fizzickle:
+    guild: Empath
+    race: Dwarf
+    circle:
     relationship:
     notes:
     alts:
@@ -243,6 +656,27 @@ contacts:
     guild: Cleric
     race:
     circle: 125
+    relationship:
+    notes:
+    alts:
+  frediwyn:
+    guild: Empath
+    race: Dwarf
+    circle:
+    relationship:
+    notes:
+    alts:
+  frosts:
+    guild: Warrior Mage
+    race: Dwarf
+    circle: 170
+    relationship:
+    notes:
+    alts:
+  fuss:
+    guild: Moon Mage
+    race: 
+    circle:
     relationship:
     notes:
     alts:
@@ -260,6 +694,27 @@ contacts:
     relationship:
     notes:
     alts:
+  gavyn:
+    guild: Barbarian
+    race: S'Kra Mur
+    circle:
+    relationship:
+    notes:
+    alts:
+  gelvit:
+    guild: Bard
+    race: Elothean 
+    circle:
+    relationship:
+    notes:
+    alts:
+  gizwick:
+    guild: Moon Mage
+    race: 
+    circle:
+    relationship:
+    notes:
+    alts:
   goou:
     guild: Cleric
     race:
@@ -269,8 +724,15 @@ contacts:
     alts:
   gorteous:
     guild: Barbarian
-    race:
+    race: Rakash
     circle:
+    relationship:
+    notes:
+    alts:
+  grayaiche:
+    guild: Bard
+    race: Prydaen 
+    circle: 77
     relationship:
     notes:
     alts:
@@ -281,16 +743,86 @@ contacts:
     relationship:
     notes:
     alts:
+  grixlek:
+    guild: Moon Mage
+    race: 
+    circle:
+    relationship:
+    notes:
+    alts:
+  grumblid:
+    guild: Barbarian
+    race: Dwarf
+    circle:
+    relationship:
+    notes:
+    alts:
+  grungy:
+    guild: Barbarian
+    race: Dwarf
+    circle:
+    relationship:
+    notes:
+    alts:
+  guaranzo:
+    guild: Barbarian
+    race: Human
+    circle:
+    relationship:
+    notes:
+    alts:
   hammerfist:
     guild: Barbarian
-    race:
+    race: Gor'Tog
+    circle:
+    relationship:
+    notes:
+    alts:
+  hanafae:
+    guild: Empath
+    race: Elf
+    circle:
+    relationship:
+    notes:
+    alts:
+  heartsfyre:
+    guild: Empath
+    race: Elothean
+    circle:
+    relationship:
+    notes:
+    alts:
+  hnot:
+    guild: Moon Mage
+    race: 
+    circle:
+    relationship:
+    notes:
+    alts:
+  hotoke:
+    guild: Moon Mage
+    race: 
+    circle:
+    relationship:
+    notes:
+    alts:
+  ianhanse:
+    guild: Bard
+    race: S'Kra Mur 
+    circle:
+    relationship:
+    notes:
+    alts:
+  iita:
+    guild: Bard
+    race: S'Kra Mur 
     circle:
     relationship:
     notes:
     alts:
   ikrin:
     guild: Empath
-    race:
+    race: Dwarf
     circle:
     relationship:
     notes:
@@ -304,14 +836,42 @@ contacts:
     alts:
   ironjonn:
     guild: Barbarian
-    race:
+    race: Human
+    circle:
+    relationship:
+    notes:
+    alts:
+  issus:
+    guild: Bard
+    race: Elf 
+    circle: 146
+    relationship:
+    notes:
+    alts:
+  ithrios:
+    guild: Moon Mage
+    race: 
+    circle:
+    relationship:
+    notes:
+    alts:
+  itri:
+    guild: Empath
+    race: Rakash
     circle:
     relationship:
     notes:
     alts:
   jadyce:
     guild: Empath
-    race:
+    race: Human
+    circle:
+    relationship:
+    notes:
+    alts:
+  jaenor:
+    guild: Bard
+    race: Elf 
     circle:
     relationship:
     notes:
@@ -325,7 +885,7 @@ contacts:
     alts:
   jalich:
     guild: Barbarian
-    race:
+    race: S'Kra Mur
     circle:
     relationship:
     notes:
@@ -337,6 +897,13 @@ contacts:
     relationship:
     notes:
     alts:
+  jerodan:
+    guild: Bard
+    race: Human 
+    circle: 156
+    relationship:
+    notes:
+    alts:
   jhaason:
     guild: Cleric
     race:
@@ -344,16 +911,72 @@ contacts:
     relationship:
     notes:
     alts:
+  jherrisali:
+    guild: Empath
+    race: S'Kra Mur
+    circle:
+    relationship:
+    notes:
+    alts:
+  johul:
+    guild: Bard
+    race: Elf 
+    circle:
+    relationship:
+    notes:
+    alts:
+  jondong:
+    guild: Barbarian
+    race: Dwarf
+    circle:
+    relationship:
+    notes:
+    alts:
+  junseba:
+    guild: Moon Mage
+    race: 
+    circle:
+    relationship:
+    notes:
+    alts:
   junzaa:
     guild: Warrior Mage
-    race:
+    race: Human
     circle: 169
+    relationship:
+    notes:
+    alts:
+  juulmon:
+    guild: Barbarian
+    race: Human
+    circle:
     relationship:
     notes:
     alts:
   kaelie:
     guild: Empath
-    race:
+    race: Elf
+    circle:
+    relationship:
+    notes:
+    alts:
+  kaeta:
+    guild: Empath
+    race: Elf
+    circle:
+    relationship:
+    notes:
+    alts:
+  kaijana:
+    guild: Moon Mage
+    race: 
+    circle:
+    relationship:
+    notes:
+    alts:
+  kajikun:
+    guild: Empath
+    race: Human
     circle:
     relationship:
     notes:
@@ -365,16 +988,65 @@ contacts:
     relationship:
     notes:
     alts:
+  kalyndara:
+    guild: Empath
+    race: Prydaen
+    circle:
+    relationship:
+    notes:
+    alts:
+  karthor:
+    guild: Empath
+    race: Dwarf
+    circle:
+    relationship:
+    notes:
+    alts:
+  kassin:
+    guild: Moon Mage
+    race: 
+    circle:
+    relationship:
+    notes:
+    alts:
+  kathlen:
+    guild: Empath
+    race: Elothean
+    circle:
+    relationship:
+    notes:
+    alts:
+  katjia:
+    guild: Empath
+    race: Elothean
+    circle:
+    relationship:
+    notes:
+    alts:
+  katralyn:
+    guild: Bard
+    race: Human 
+    circle: 150
+    relationship:
+    notes:
+    alts:
   keirran:
     guild: Empath
-    race:
+    race: Elf
     circle:
     relationship:
     notes:
     alts:
   kendus:
     guild: Barbarian
-    race:
+    race: Kaldar
+    circle:
+    relationship:
+    notes:
+    alts:
+  khagan:
+    guild: Barbarian
+    race: Halfling
     circle:
     relationship:
     notes:
@@ -386,6 +1058,20 @@ contacts:
     relationship:
     notes:
     alts:
+  killashandrea:
+    guild: Moon Mage
+    race: 
+    circle:
+    relationship:
+    notes:
+    alts:
+  kiluminati:
+    guild: Moon Mage
+    race: 
+    circle:
+    relationship:
+    notes:
+    alts:
   kiritan:
     guild: Cleric
     race:
@@ -393,9 +1079,23 @@ contacts:
     relationship:
     notes:
     alts:
+  kitarro:
+    guild: Moon Mage
+    race: 
+    circle:
+    relationship:
+    notes:
+    alts:
   klurn:
     guild: Barbarian
     race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  kraggur:
+    guild: Moon Mage
+    race: 
     circle:
     relationship:
     notes:
@@ -414,6 +1114,13 @@ contacts:
     relationship:
     notes:
     alts:
+  kurlay:
+    guild: Moon Mage
+    race: 
+    circle:
+    relationship:
+    notes:
+    alts:
   kyarakat:
     guild: Empath
     race:
@@ -428,9 +1135,37 @@ contacts:
     relationship:
     notes:
     alts:
+  kythryn:
+    guild: Empath
+    race: Elothean
+    circle:
+    relationship:
+    notes:
+    alts:
+  kyudo:
+    guild: Warrior Mage
+    race: Human
+    circle: 163
+    relationship:
+    notes:
+    alts:
+  lagury:
+    guild: Barbarian
+    race: Gor'Tog
+    circle:
+    relationship:
+    notes:
+    alts:
+  lakus:
+    guild: Barbarian
+    race: Dwarf
+    circle:
+    relationship:
+    notes:
+    alts:
   lalouisa:
     guild: Barbarian
-    race:
+    race: Gor'Tog
     circle:
     relationship:
     notes:
@@ -449,6 +1184,76 @@ contacts:
     relationship:
     notes:
     alts:
+  lannisterz:
+    guild: Moon Mage
+    race: 
+    circle:
+    relationship:
+    notes:
+    alts:
+  larhea:
+    guild: Empath
+    race: Human
+    circle:
+    relationship:
+    notes:
+    alts:
+  lawtun:
+    guild: Moon Mage
+    race: 
+    circle:
+    relationship:
+    notes:
+    alts:
+  leilond:
+    guild: Bard
+    race: Elf 
+    circle: 196
+    relationship:
+    notes:
+    alts:
+  lennede:
+    guild: Empath
+    race: Human
+    circle:
+    relationship:
+    notes:
+    alts:
+  leonned:
+    guild: Warrior Mage
+    race: Rakash
+    circle: 157
+    relationship:
+    notes:
+    alts:
+  levinas:
+    guild: Moon Mage
+    race: 
+    circle:
+    relationship:
+    notes:
+    alts:
+  lilwea:
+    guild: Bard
+    race: Gnome 
+    circle: 168
+    relationship:
+    notes:
+    alts:
+  linett:
+    guild: Bard
+    race: Elf 
+    circle:
+    relationship:
+    notes:
+    alts:
+  litrel:
+    guild: Moon Mage
+    race: 
+    circle:
+    relationship:
+    notes:
+    alts:
   liurilias:
     guild: Cleric
     race:
@@ -456,9 +1261,51 @@ contacts:
     relationship:
     notes:
     alts:
+  locistone:
+    guild: Moon Mage
+    race: 
+    circle:
+    relationship:
+    notes:
+    alts:
   lovasus:
     guild: Barbarian
-    race:
+    race: Gor'Tog
+    circle:
+    relationship:
+    notes:
+    alts:
+  lupdels:
+    guild: Bard
+    race: Rakash 
+    circle:
+    relationship:
+    notes:
+    alts:
+  lushk:
+    guild: Empath
+    race: Human
+    circle:
+    relationship:
+    notes:
+    alts:
+  lyranis:
+    guild: Empath
+    race: Elothean
+    circle:
+    relationship:
+    notes:
+    alts:
+  lyzalian:
+    guild: Moon Mage
+    race: 
+    circle:
+    relationship:
+    notes:
+    alts:
+  magdar:
+    guild: Barbarian
+    race: Dwarf
     circle:
     relationship:
     notes:
@@ -470,16 +1317,86 @@ contacts:
     relationship:
     notes:
     alts:
+  malhath:
+    guild: Moon Mage
+    race: 
+    circle:
+    relationship:
+    notes:
+    alts:
+  malkien:
+    guild: Barbarian
+    race: Kaldar
+    circle:
+    relationship:
+    notes:
+    alts:
   marmic:
     guild: Empath
-    race:
+    race: Elothean
+    circle:
+    relationship:
+    notes:
+    alts:
+  maximhus:
+    guild: Warrior Mage
+    race: S'Kra Mur
+    circle: 166
+    relationship:
+    notes:
+    alts:
+  maxwelinski:
+    guild: Bard
+    race: Rakash 
+    circle:
+    relationship:
+    notes:
+    alts:
+  mazrian:
+    guild: Warrior Mage
+    race: Elf
+    circle: 167
+    relationship:
+    notes:
+    alts:
+  meantermel:
+    guild: Barbarian
+    race: Prydaen
+    circle:
+    relationship:
+    notes:
+    alts:
+  medikia:
+    guild: Moon Mage
+    race: 
     circle:
     relationship:
     notes:
     alts:
   merrila:
     guild: Empath
-    race:
+    race: Prydaen
+    circle:
+    relationship:
+    notes:
+    alts:
+  mhaeric:
+    guild: Bard
+    race: Elf 
+    circle:
+    relationship:
+    notes:
+    alts:
+  milanie:
+    guild: Bard
+    race: Halfling 
+    circle: 113
+    relationship:
+    notes:
+    alts:
+  mingold:
+    guild: Empath
+    race: Halfling
     circle:
     relationship:
     notes:
@@ -491,10 +1408,52 @@ contacts:
     relationship:
     notes:
     alts:
+  mistanna:
+    guild: Moon Mage
+    race: 
+    circle:
+    relationship:
+    notes:
+    alts:
+  momoche:
+    guild: Barbarian
+    race: Human
+    circle:
+    relationship:
+    notes:
+    alts:
+  mordibar:
+    guild: Empath
+    race: Rakash
+    circle:
+    relationship:
+    notes:
+    alts:
   mordimer:
     guild: Warrior Mage
-    race:
+    race: Elf
     circle: 164
+    relationship:
+    notes:
+    alts:
+  myrissan:
+    guild: Empath
+    race: Elothean
+    circle:
+    relationship:
+    notes:
+    alts:
+  nausikaa:
+    guild: Empath
+    race: Elf
+    circle:
+    relationship:
+    notes:
+    alts:
+  navesi:
+    guild: Bard
+    race: Kaldar 
+    circle: 124
     relationship:
     notes:
     alts:
@@ -505,10 +1464,45 @@ contacts:
     relationship:
     notes:
     alts:
+  nesra:
+    guild: Empath
+    race: Elf
+    circle:
+    relationship:
+    notes:
+    alts:
+  nienn:
+    guild: Bard
+    race: Human 
+    circle: 168
+    relationship:
+    notes:
+    alts:
+  nilassa:
+    guild: Moon Mage
+    race: 
+    circle:
+    relationship:
+    notes:
+    alts:
   nonomis:
     guild: Cleric
     race:
     circle: 131
+    relationship:
+    notes:
+    alts:
+  noopin:
+    guild: Bard
+    race: Gnome 
+    circle: 150
+    relationship:
+    notes:
+    alts:
+  nuppin:
+    guild: Bard
+    race: Kaldar 
+    circle:
     relationship:
     notes:
     alts:
@@ -526,6 +1520,13 @@ contacts:
     relationship:
     notes:
     alts:
+  olyandir:
+    guild: Bard
+    race: Halfling 
+    circle: 124
+    relationship:
+    notes:
+    alts:
   ozban:
     guild: Cleric
     race:
@@ -533,45 +1534,171 @@ contacts:
     relationship:
     notes:
     alts:
+  parcere:
+    guild: Empath
+    race: Human
+    circle:
+    relationship:
+    notes:
+    alts:
+  pathian:
+    guild: Moon Mage
+    race: 
+    circle:
+    relationship:
+    notes:
+    alts:
+  pemilachea:
+    guild: Empath
+    race: Elothean
+    circle:
+    relationship:
+    notes:
+    alts:
+  pendus:
+    guild: Barbarian
+    race: Human
+    circle:
+    relationship:
+    notes:
+    alts:
   penethol:
     guild: Barbarian
-    race:
+    race: Gor'Tog
+    circle:
+    relationship:
+    notes:
+    alts:
+  pharstar:
+    guild: Moon Mage
+    race: 
     circle:
     relationship:
     notes:
     alts:
   phii:
     guild: Barbarian
-    race:
+    race: Human
     circle:
     relationship:
     notes:
     alts:
   phoul:
     guild: Barbarian
-    race:
+    race: Gor'Tog
     circle:
+    relationship:
+    notes:
+    alts:
+  pielle:
+    guild: Bard
+    race: Human 
+    circle:
+    relationship:
+    notes:
+    alts:
+  pormithius:
+    guild: Moon Mage
+    race: 
+    circle:
+    relationship:
+    notes:
+    alts:
+  powerhaus:
+    guild: Warrior Mage
+    race: Human
+    circle: 156
     relationship:
     notes:
     alts:
   pranx:
     guild: Barbarian
-    race:
+    race: Gor'Tog
+    circle:
+    relationship:
+    notes:
+    alts:
+  psilocybe:
+    guild: Moon Mage
+    race: 
+    circle:
+    relationship:
+    notes:
+    alts:
+  qiyan:
+    guild: Empath
+    race: Kaldar
+    circle:
+    relationship:
+    notes:
+    alts:
+  quazzarz:
+    guild: Empath
+    race: Dwarf
+    circle:
+    relationship:
+    notes:
+    alts:
+  rairken:
+    guild: Empath
+    race: Human
+    circle:
+    relationship:
+    notes:
+    alts:
+  raithren:
+    guild: Bard
+    race: Rakash 
+    circle: 152
+    relationship:
+    notes:
+    alts:
+  rallyne:
+    guild: Barbarian
+    race: Human
+    circle:
+    relationship:
+    notes:
+    alts:
+  raudhan:
+    guild: Empath
+    race: Human
     circle:
     relationship:
     notes:
     alts:
   rayyoln:
     guild: Warrior Mage
-    race:
+    race: Human
     circle: 200
     relationship:
     notes:
     alts:
   razhak:
     guild: Barbarian
-    race:
+    race: S'Kra Mur
     circle:
+    relationship:
+    notes:
+    alts:
+  raziaar:
+    guild: Bard
+    race: Human 
+    circle:
+    relationship:
+    notes:
+    alts:
+  razzer:
+    guild: Bard
+    race: Prydaen 
+    circle: 157
+    relationship:
+    notes:
+    alts:
+  redeth:
+    guild: Warrior Mage
+    race: Human
+    circle: 162
     relationship:
     notes:
     alts:
@@ -589,9 +1716,37 @@ contacts:
     relationship:
     notes:
     alts:
+  rezzian:
+    guild: Bard
+    race: Elf 
+    circle:
+    relationship:
+    notes:
+    alts:
   rhadyn:
     guild: Barbarian
-    race:
+    race: Dwarf
+    circle:
+    relationship:
+    notes:
+    alts:
+  rikulf:
+    guild: Barbarian
+    race: Human
+    circle:
+    relationship:
+    notes:
+    alts:
+  rollannd:
+    guild: Empath
+    race: Elothean
+    circle:
+    relationship:
+    notes:
+    alts:
+  rozze:
+    guild: Empath
+    race: Prydaen
     circle:
     relationship:
     notes:
@@ -605,14 +1760,21 @@ contacts:
     alts:
   ryain:
     guild: Barbarian
-    race:
+    race: Human
+    circle:
+    relationship:
+    notes:
+    alts:
+  ryoukai:
+    guild: Moon Mage
+    race: 
     circle:
     relationship:
     notes:
     alts:
   rys:
     guild: Warrior Mage
-    race:
+    race: Dwarf
     circle: 158
     relationship:
     notes:
@@ -624,9 +1786,37 @@ contacts:
     relationship:
     notes:
     alts:
+  saamon:
+    guild: Barbarian
+    race: Gor'Tog
+    circle:
+    relationship:
+    notes:
+    alts:
+  sajuta:
+    guild: Empath
+    race: Rakash
+    circle:
+    relationship:
+    notes:
+    alts:
+  sakaya:
+    guild: Empath
+    race: Human
+    circle:
+    relationship:
+    notes:
+    alts:
+  sarait:
+    guild: Bard
+    race: Elf 
+    circle:
+    relationship:
+    notes:
+    alts:
   sarkranis:
     guild: Empath
-    race:
+    race: S'Kra Mur
     circle:
     relationship:
     notes:
@@ -647,7 +1837,28 @@ contacts:
     alts:
   sekmeht:
     guild: Barbarian
-    race:
+    race: Gor'Tog
+    circle:
+    relationship:
+    notes:
+    alts:
+  seldaren:
+    guild: Bard
+    race: Elothean 
+    circle: 181
+    relationship:
+    notes:
+    alts:
+  sepherus:
+    guild: Moon Mage
+    race: 
+    circle:
+    relationship:
+    notes:
+    alts:
+  shaheen:
+    guild: Moon Mage
+    race: 
     circle:
     relationship:
     notes:
@@ -666,6 +1877,20 @@ contacts:
     relationship:
     notes:
     alts:
+  shenney:
+    guild: Bard
+    race: Elf 
+    circle:
+    relationship:
+    notes:
+    alts:
+  sherley:
+    guild: Barbarian
+    race: Halfling
+    circle:
+    relationship:
+    notes:
+    alts:
   shingi:
     guild: Cleric
     race:
@@ -673,9 +1898,23 @@ contacts:
     relationship:
     notes:
     alts:
+  shinikawa:
+    guild: Bard
+    race: Prydaen 
+    circle: 154
+    relationship:
+    notes:
+    alts:
   shunasazi:
     guild: Cleric
     race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  skaen:
+    guild: Moon Mage
+    race: 
     circle:
     relationship:
     notes:
@@ -687,16 +1926,51 @@ contacts:
     relationship:
     notes:
     alts:
+  sluka:
+    guild: Bard
+    race: Elf 
+    circle:
+    relationship:
+    notes:
+    alts:
+  somniumvisum:
+    guild: Warrior Mage
+    race: Human
+    circle: 157
+    relationship:
+    notes:
+    alts:
+  sonjaa:
+    guild: Empath
+    race: Human
+    circle:
+    relationship:
+    notes:
+    alts:
+  sophieann:
+    guild: Empath
+    race: Human
+    circle:
+    relationship:
+    notes:
+    alts:
   sophrona:
     guild: Empath
-    race:
+    race: Elf
     circle:
     relationship:
     notes:
     alts:
   squanto:
     guild: Barbarian
-    race:
+    race: Kaldar
+    circle:
+    relationship:
+    notes:
+    alts:
+  stardustt:
+    guild: Moon Mage
+    race: 
     circle:
     relationship:
     notes:
@@ -704,6 +1978,13 @@ contacts:
   stilva:
     guild: Cleric
     race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  stoh:
+    guild: Moon Mage
+    race: 
     circle:
     relationship:
     notes:
@@ -719,6 +2000,20 @@ contacts:
     guild: Cleric
     race:
     circle: 164
+    relationship:
+    notes:
+    alts:
+  sulli:
+    guild: Moon Mage
+    race: 
+    circle:
+    relationship:
+    notes:
+    alts:
+  sydnee:
+    guild: Moon Mage
+    race: 
+    circle:
     relationship:
     notes:
     alts:
@@ -750,10 +2045,24 @@ contacts:
     relationship:
     notes:
     alts:
+  taleicia:
+    guild: Moon Mage
+    race: 
+    circle:
+    relationship:
+    notes:
+    alts:
   tarlof:
     guild: Warrior Mage
-    race:
+    race: Elothean
     circle: 200
+    relationship:
+    notes:
+    alts:
+  tearlyn:
+    guild: Moon Mage
+    race: 
+    circle:
     relationship:
     notes:
     alts:
@@ -766,14 +2075,14 @@ contacts:
     alts:
   teflawn:
     guild: Warrior Mage
-    race:
+    race: 177
     circle: 177
     relationship:
     notes:
     alts:
   telutci:
     guild: Barbarian
-    race:
+    race: Kaldar
     circle:
     relationship:
     notes:
@@ -785,23 +2094,58 @@ contacts:
     relationship:
     notes:
     alts:
+  ternith:
+    guild: Barbarian
+    race: Prydaen
+    circle:
+    relationship:
+    notes:
+    alts:
+  ticrit:
+    guild: Bard
+    race: Rakash 
+    circle: 121
+    relationship:
+    notes:
+    alts:
   tramin:
     guild: Warrior Mage
-    race:
+    race: 177
     circle: 175
+    relationship:
+    notes:
+    alts:
+  toldorf:
+    guild: Moon Mage
+    race: 
+    circle:
+    relationship:
+    notes:
+    alts:
+  tolerate:
+    guild: Bard
+    race: Kaldar 
+    circle:
     relationship:
     notes:
     alts:
   toreakas:
     guild: Barbarian
-    race:
+    race: Halfling
+    circle:
+    relationship:
+    notes:
+    alts:
+  treiz:
+    guild: Moon Mage
+    race: 
     circle:
     relationship:
     notes:
     alts:
   truix:
     guild: Empath
-    race:
+    race: Prydaen
     circle:
     relationship:
     notes:
@@ -809,6 +2153,34 @@ contacts:
   tyrun:
     guild: Cleric
     race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  tyx:
+    guild: Barbarian
+    race: Gor'Tog
+    circle:
+    relationship:
+    notes:
+    alts:
+  useff:
+    guild: Bard
+    race: Elf 
+    circle: 137
+    relationship:
+    notes:
+    alts:
+  utamael:
+    guild: Moon Mage
+    race: 
+    circle:
+    relationship:
+    notes:
+    alts:
+  vahga:
+    guild: Empath
+    race: Dwarf
     circle:
     relationship:
     notes:
@@ -822,8 +2194,29 @@ contacts:
     alts:
   vandergrift:
     guild: Barbarian
-    race:
+    race: Human
     circle:
+    relationship:
+    notes:
+    alts:
+  vansiil:
+    guild: Moon Mage
+    race: 
+    circle:
+    relationship:
+    notes:
+    alts:
+  vashir:
+    guild: Barbarian
+    race: Prydaen
+    circle:
+    relationship:
+    notes:
+    alts:
+  venarstrualis:
+    guild: Warrior Mage
+    race: Kaldar
+    circle: 180
     relationship:
     notes:
     alts:
@@ -834,9 +2227,30 @@ contacts:
     relationship:
     notes:
     alts:
+  vezrai:
+    guild: Empath
+    race: Gnome
+    circle:
+    relationship:
+    notes:
+    alts:
+  vianae:
+    guild: Bard
+    race: Elf 
+    circle: 102
+    relationship:
+    notes:
+    alts:
   vibrato:
     guild: Barbarian
-    race:
+    race: Elothean
+    circle:
+    relationship:
+    notes:
+    alts:
+  vinjince:
+    guild: Barbarian
+    race: Prydaen
     circle:
     relationship:
     notes:
@@ -848,6 +2262,13 @@ contacts:
     relationship:
     notes:
     alts:
+  wealand:
+    guild: Moon Mage
+    race: 
+    circle:
+    relationship:
+    notes:
+    alts:
   weeks:
     guild: Cleric
     race:
@@ -855,9 +2276,65 @@ contacts:
     relationship:
     notes:
     alts:
+  whirlingblade:
+    guild: Moon Mage
+    race: 
+    circle:
+    relationship:
+    notes:
+    alts:
   whiteburn:
     guild: Cleric
     race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  winterangel:
+    guild: Empath
+    race: S'Kra Mur
+    circle:
+    relationship:
+    notes:
+    alts:
+  xenris:
+    guild: Bard
+    race: Kaldar 
+    circle:
+    relationship:
+    notes:
+    alts:
+  xyngleburt:
+    guild: Moon Mage
+    race: 
+    circle:
+    relationship:
+    notes:
+    alts:
+  yasminna:
+    guild: Empath
+    race: Rakash
+    circle:
+    relationship:
+    notes:
+    alts:
+  yavus:
+    guild: Moon Mage
+    race: 
+    circle:
+    relationship:
+    notes:
+    alts:
+  yoduh:
+    guild: Moon Mage
+    race: 
+    circle:
+    relationship:
+    notes:
+    alts:
+  yoldin:
+    guild: Moon Mage
+    race: 
     circle:
     relationship:
     notes:
@@ -876,9 +2353,16 @@ contacts:
     relationship:
     notes:
     alts:
+  zamara:
+    guild: Empath
+    race: Prydaen
+    circle:
+    relationship:
+    notes:
+    alts:
   zaxor:
     guild: Warrior Mage
-    race:
+    race: Human
     circle: 183
     relationship:
     notes:
@@ -889,4 +2373,18 @@ contacts:
     circle: 169
     relationship:
     notes:
-    alts:  
+    alts:
+  zerise:
+    guild: Empath
+    race: Gnome
+    circle:
+    relationship:
+    notes:
+    alts:
+  zynara:
+    guild: Moon Mage
+    race: 
+    circle:
+    relationship:
+    notes:
+    alts:
