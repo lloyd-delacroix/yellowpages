@@ -22,6 +22,13 @@ contacts:
     relationship:
     notes:
     alts:
+  abison:
+    guild: Trader
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
   abselom:
     guild: Moon Mage
     race: 
@@ -71,6 +78,13 @@ contacts:
     relationship:
     notes:
     alts:
+  aettsamme:
+    guild: Trader
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
   aevel:
     guild: Empath
     race: Elothean
@@ -99,6 +113,27 @@ contacts:
     relationship:
     notes:
     alts:
+  aleyden:
+    guild: Ranger
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  algieon:
+    guild: Ranger
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  algion:
+    guild: Ranger
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
   aluriaz:
     guild: Moon Mage
     race: 
@@ -113,8 +148,36 @@ contacts:
     relationship:
     notes:
     alts:
+  annandale:
+    guild: Trader
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  aourn:
+    guild: Ranger
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  apreta:
+    guild: Ranger
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
   apte:
     guild: Cleric
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  apu:
+    guild: Trader
     race:
     circle:
     relationship:
@@ -123,6 +186,20 @@ contacts:
   arcaneor:
     guild: Moon Mage
     race: 
+    circle:
+    relationship:
+    notes:
+    alts:
+  archipelago:
+    guild: Trader
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  ardale:
+    guild: Ranger
+    race:
     circle:
     relationship:
     notes:
@@ -148,9 +225,30 @@ contacts:
     relationship:
     notes:
     alts:
+  artilius:
+    guild: Ranger
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  arturia:
+    guild: Ranger
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
   asrea:
     guild: Empath
     race: Human
+    circle:
+    relationship:
+    notes:
+    alts:
+  asterid:
+    guild: Ranger
+    race:
     circle:
     relationship:
     notes:
@@ -176,9 +274,30 @@ contacts:
     relationship:
     notes:
     alts:
+  aylay:
+    guild: Ranger
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
   aysta:
     guild: Moon Mage
     race: 
+    circle:
+    relationship:
+    notes:
+    alts:
+  aytchross:
+    guild: Trader
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  azhag:
+    guild: Trader
+    race:
     circle:
     relationship:
     notes:
@@ -190,6 +309,20 @@ contacts:
     relationship:
     notes:
     alts:
+  badtooth:
+    guild: Trader
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  baelith:
+    guild: Ranger
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
   baggs:
     guild: Empath
     race: Dwarf
@@ -197,9 +330,30 @@ contacts:
     relationship:
     notes:
     alts:
+  bagsodoks:
+    guild: Trader
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
   ballantyne:
     guild: Moon Mage
     race: 
+    circle:
+    relationship:
+    notes:
+    alts:
+  balshin:
+    guild: Trader
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  banisad:
+    guild: Trader
+    race:
     circle:
     relationship:
     notes:
@@ -221,6 +375,13 @@ contacts:
   bazarith:
     guild: Barbarian
     race: Kaldar
+    circle:
+    relationship:
+    notes:
+    alts:
+  beartrap:
+    guild: Ranger
+    race:
     circle:
     relationship:
     notes:
@@ -262,6 +423,20 @@ contacts:
     alts:
   boriz:
     guild: Cleric
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  bovi:
+    guild: Trader
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  brahmer:
+    guild: Ranger
     race:
     circle:
     relationship:
@@ -309,6 +484,13 @@ contacts:
     relationship:
     notes:
     alts:
+  caelfind:
+    guild: Ranger
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
   caidie:
     guild: Barbarian
     race: Elf
@@ -318,6 +500,13 @@ contacts:
     alts:
   cainec:
     guild: Barbarian
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  calgakus:
+    guild: Ranger
     race:
     circle:
     relationship:
@@ -407,8 +596,22 @@ contacts:
     relationship:
     notes:
     alts:
+  crimsondae:
+    guild: Trader
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
   crounchmeyer:
     guild: Cleric
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  czrethh:
+    guild: Ranger
     race:
     circle:
     relationship:
@@ -445,6 +648,20 @@ contacts:
   daryn:
     guild: Moon Mage
     race: 
+    circle:
+    relationship:
+    notes:
+    alts:
+  deaglan:
+    guild: Trader
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  depouch:
+    guild: Trader
+    race:
     circle:
     relationship:
     notes:
@@ -498,6 +715,13 @@ contacts:
     relationship:
     notes:
     alts:
+  dramulius:
+    guild: Trader
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
   dreaderic:
     guild: Barbarian
     race: Human
@@ -522,6 +746,13 @@ contacts:
   drunstan:
     guild: Barbarian
     race: Human
+    circle:
+    relationship:
+    notes:
+    alts:
+  dryzt:
+    guild: Ranger
+    race:
     circle:
     relationship:
     notes:
@@ -568,6 +799,20 @@ contacts:
     relationship:
     notes:
     alts:
+  ellis:
+    guild: Trader
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  elsulose:
+    guild: Trader
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
   embrace:
     guild: Cleric
     race:
@@ -603,10 +848,52 @@ contacts:
     relationship:
     notes:
     alts:
+  erinenne:
+    guild: Trader
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
   erixx:
     guild: Warrior Mage
     race: Human
     circle: 196
+    relationship:
+    notes:
+    alts:
+  erlo:
+    guild: Ranger
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  etherian:
+    guild: Ranger
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  etreu:
+    guild: Ranger
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  euph:
+    guild: Ranger
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  evetriall:
+    guild: Ranger
+    race:
+    circle:
     relationship:
     notes:
     alts:
@@ -624,6 +911,13 @@ contacts:
     relationship:
     notes:
     alts:
+  falkonis:
+    guild: Ranger
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
   favre:
     guild: Empath
     race: Prydaen
@@ -631,9 +925,23 @@ contacts:
     relationship:
     notes:
     alts:
+  fengreve:
+    guild: Ranger
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
   fernwren:
     guild: Empath
     race: Dwarf
+    circle:
+    relationship:
+    notes:
+    alts:
+  ferrika:
+    guild: Trader
+    race:
     circle:
     relationship:
     notes:
@@ -656,6 +964,20 @@ contacts:
     guild: Cleric
     race:
     circle: 125
+    relationship:
+    notes:
+    alts:
+  forgenash:
+    guild: Ranger
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  foxrhyn:
+    guild: Ranger
+    race:
+    circle:
     relationship:
     notes:
     alts:
@@ -694,6 +1016,20 @@ contacts:
     relationship:
     notes:
     alts:
+  gamalon:
+    guild: Ranger
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  gashler:
+    guild: Trader
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
   gavyn:
     guild: Barbarian
     race: S'Kra Mur
@@ -704,6 +1040,13 @@ contacts:
   gelvit:
     guild: Bard
     race: Elothean 
+    circle:
+    relationship:
+    notes:
+    alts:
+  gidske:
+    guild: Trader
+    race:
     circle:
     relationship:
     notes:
@@ -729,6 +1072,13 @@ contacts:
     relationship:
     notes:
     alts:
+  gossford:
+    guild: Trader
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
   grayaiche:
     guild: Bard
     race: Prydaen 
@@ -740,6 +1090,13 @@ contacts:
     guild: Cleric
     race:
     circle: 154
+    relationship:
+    notes:
+    alts:
+  greyhallow:
+    guild: Trader
+    race:
+    circle:
     relationship:
     notes:
     alts:
@@ -771,6 +1128,20 @@ contacts:
     relationship:
     notes:
     alts:
+  halajar:
+    guild: Trader
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  halzo:
+    guild: Ranger
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
   hammerfist:
     guild: Barbarian
     race: Gor'Tog
@@ -781,6 +1152,13 @@ contacts:
   hanafae:
     guild: Empath
     race: Elf
+    circle:
+    relationship:
+    notes:
+    alts:
+  hanryu:
+    guild: Ranger
+    race:
     circle:
     relationship:
     notes:
@@ -799,6 +1177,13 @@ contacts:
     relationship:
     notes:
     alts:
+  hostro:
+    guild: Trader
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
   hotoke:
     guild: Moon Mage
     race: 
@@ -813,6 +1198,13 @@ contacts:
     relationship:
     notes:
     alts:
+  ienna:
+    guild: Trader
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
   iita:
     guild: Bard
     race: S'Kra Mur 
@@ -823,6 +1215,13 @@ contacts:
   ikrin:
     guild: Empath
     race: Dwarf
+    circle:
+    relationship:
+    notes:
+    alts:
+  illumanari:
+    guild: Ranger
+    race:
     circle:
     relationship:
     notes:
@@ -845,6 +1244,13 @@ contacts:
     guild: Bard
     race: Elf 
     circle: 146
+    relationship:
+    notes:
+    alts:
+  ithchy:
+    guild: Trader
+    race:
+    circle:
     relationship:
     notes:
     alts:
@@ -890,6 +1296,20 @@ contacts:
     relationship:
     notes:
     alts:
+  jalika:
+    guild: Ranger
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  jerde:
+    guild: Trader
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
   jerhedrin:
     guild: Cleric
     race:
@@ -918,6 +1338,13 @@ contacts:
     relationship:
     notes:
     alts:
+  jhesili:
+    guild: Trader
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
   johul:
     guild: Bard
     race: Elf 
@@ -928,6 +1355,13 @@ contacts:
   jondong:
     guild: Barbarian
     race: Dwarf
+    circle:
+    relationship:
+    notes:
+    alts:
+  joolie:
+    guild: Trader
+    race:
     circle:
     relationship:
     notes:
@@ -995,9 +1429,30 @@ contacts:
     relationship:
     notes:
     alts:
+  kardlo:
+    guild: Trader
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  kartaan:
+    guild: Ranger
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
   karthor:
     guild: Empath
     race: Dwarf
+    circle:
+    relationship:
+    notes:
+    alts:
+  kasmer:
+    guild: Trader
+    race:
     circle:
     relationship:
     notes:
@@ -1044,6 +1499,27 @@ contacts:
     relationship:
     notes:
     alts:
+  kenjay:
+    guild: Ranger
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  kerpal:
+    guild: Trader
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  kesava:
+    guild: Ranger
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
   khagan:
     guild: Barbarian
     race: Halfling
@@ -1086,8 +1562,22 @@ contacts:
     relationship:
     notes:
     alts:
+  kivian:
+    guild: Ranger
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
   klurn:
     guild: Barbarian
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  kobmand:
+    guild: Trader
     race:
     circle:
     relationship:
@@ -1117,6 +1607,13 @@ contacts:
   kurlay:
     guild: Moon Mage
     race: 
+    circle:
+    relationship:
+    notes:
+    alts:
+  kurtus:
+    guild: Trader
+    race:
     circle:
     relationship:
     notes:
@@ -1233,6 +1730,20 @@ contacts:
     relationship:
     notes:
     alts:
+  lexara:
+    guild: Trader
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  lhun:
+    guild: Ranger
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
   lilwea:
     guild: Bard
     race: Gnome 
@@ -1268,6 +1779,13 @@ contacts:
     relationship:
     notes:
     alts:
+  loshant:
+    guild: Trader
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
   lovasus:
     guild: Barbarian
     race: Gor'Tog
@@ -1289,6 +1807,13 @@ contacts:
     relationship:
     notes:
     alts:
+  lyerauk:
+    guild: Trader
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
   lyranis:
     guild: Empath
     race: Elothean
@@ -1303,6 +1828,20 @@ contacts:
     relationship:
     notes:
     alts:
+  madas:
+    guild: Trader
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  maelith:
+    guild: Ranger
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
   magdar:
     guild: Barbarian
     race: Dwarf
@@ -1312,6 +1851,13 @@ contacts:
     alts:
   magrid:
     guild: Cleric
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  malakye:
+    guild: Trader
     race:
     circle:
     relationship:
@@ -1334,6 +1880,13 @@ contacts:
   marmic:
     guild: Empath
     race: Elothean
+    circle:
+    relationship:
+    notes:
+    alts:
+  martyka:
+    guild: Trader
+    race:
     circle:
     relationship:
     notes:
@@ -1369,6 +1922,13 @@ contacts:
   medikia:
     guild: Moon Mage
     race: 
+    circle:
+    relationship:
+    notes:
+    alts:
+  mellicent:
+    guild: Trader
+    race:
     circle:
     relationship:
     notes:
@@ -1422,6 +1982,20 @@ contacts:
     relationship:
     notes:
     alts:
+  monedero:
+    guild: Trader
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  monne:
+    guild: Trader
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
   mordibar:
     guild: Empath
     race: Rakash
@@ -1436,9 +2010,44 @@ contacts:
     relationship:
     notes:
     alts:
+  moriath:
+    guild: Ranger
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  mossyoak:
+    guild: Ranger
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  mourvedre:
+    guild: Ranger
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
   myrissan:
     guild: Empath
     race: Elothean
+    circle:
+    relationship:
+    notes:
+    alts:
+  naniaki:
+    guild: Trader
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  nasrid:
+    guild: Ranger
+    race:
     circle:
     relationship:
     notes:
@@ -1457,8 +2066,22 @@ contacts:
     relationship:
     notes:
     alts:
+  nawarr:
+    guild: Ranger
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
   neeno:
     guild: Cleric
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  nefarious:
+    guild: Ranger
     race:
     circle:
     relationship:
@@ -1481,6 +2104,13 @@ contacts:
   nilassa:
     guild: Moon Mage
     race: 
+    circle:
+    relationship:
+    notes:
+    alts:
+  nilerbone:
+    guild: Ranger
+    race:
     circle:
     relationship:
     notes:
@@ -1548,6 +2178,13 @@ contacts:
     relationship:
     notes:
     alts:
+  pelgar:
+    guild: Trader
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
   pemilachea:
     guild: Empath
     race: Elothean
@@ -1579,6 +2216,13 @@ contacts:
   phii:
     guild: Barbarian
     race: Human
+    circle:
+    relationship:
+    notes:
+    alts:
+  pino:
+    guild: Trader
+    race:
     circle:
     relationship:
     notes:
@@ -1632,6 +2276,13 @@ contacts:
     relationship:
     notes:
     alts:
+  quala:
+    guild: Trader
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
   quazzarz:
     guild: Empath
     race: Dwarf
@@ -1653,9 +2304,23 @@ contacts:
     relationship:
     notes:
     alts:
+  rajara:
+    guild: Trader
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
   rallyne:
     guild: Barbarian
     race: Human
+    circle:
+    relationship:
+    notes:
+    alts:
+  rascardian:
+    guild: Ranger
+    race:
     circle:
     relationship:
     notes:
@@ -1702,6 +2367,27 @@ contacts:
     relationship:
     notes:
     alts:
+  rejik:
+    guild: Ranger
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  relmgar:
+    guild: Trader
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  remigius:
+    guild: Trader
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
   renni:
     guild: Cleric
     race:
@@ -1733,6 +2419,20 @@ contacts:
   rikulf:
     guild: Barbarian
     race: Human
+    circle:
+    relationship:
+    notes:
+    alts:
+  rivenmist:
+    guild: Ranger
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  rizitel:
+    guild: Ranger
+    race:
     circle:
     relationship:
     notes:
@@ -1779,6 +2479,13 @@ contacts:
     relationship:
     notes:
     alts:
+  ryylewkai:
+    guild: Trader
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
   rze:
     guild: Cleric
     race:
@@ -1807,6 +2514,13 @@ contacts:
     relationship:
     notes:
     alts:
+  saracus:
+    guild: Ranger
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
   sarait:
     guild: Bard
     race: Elf 
@@ -1825,6 +2539,13 @@ contacts:
     guild: Cleric
     race:
     circle: 158
+    relationship:
+    notes:
+    alts:
+  secretia:
+    guild: Trader
+    race:
+    circle:
     relationship:
     notes:
     alts:
@@ -1849,6 +2570,20 @@ contacts:
     relationship:
     notes:
     alts:
+  sereena:
+    guild: Trader
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  seruk:
+    guild: Trader
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
   sepherus:
     guild: Moon Mage
     race: 
@@ -1870,6 +2605,13 @@ contacts:
     relationship:
     notes:
     alts:
+  shalendrya:
+    guild: Trader
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
   shenae:
     guild: Cleric
     race:
@@ -1887,6 +2629,13 @@ contacts:
   sherley:
     guild: Barbarian
     race: Halfling
+    circle:
+    relationship:
+    notes:
+    alts:
+  shillen:
+    guild: Ranger
+    race:
     circle:
     relationship:
     notes:
@@ -1919,10 +2668,24 @@ contacts:
     relationship:
     notes:
     alts:
+  skifyoni:
+    guild: Trader
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
   sladen:
     guild: Cleric
     race:
     circle: 161
+    relationship:
+    notes:
+    alts:
+  slayton:
+    guild: Trader
+    race:
+    circle:
     relationship:
     notes:
     alts:
@@ -1957,6 +2720,13 @@ contacts:
   sophrona:
     guild: Empath
     race: Elf
+    circle:
+    relationship:
+    notes:
+    alts:
+  sortny:
+    guild: Trader
+    race:
     circle:
     relationship:
     notes:
@@ -2010,9 +2780,23 @@ contacts:
     relationship:
     notes:
     alts:
+  sways:
+    guild: Trader
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
   sydnee:
     guild: Moon Mage
     race: 
+    circle:
+    relationship:
+    notes:
+    alts:
+  sylvain:
+    guild: Trader
+    race:
     circle:
     relationship:
     notes:
@@ -2052,6 +2836,13 @@ contacts:
     relationship:
     notes:
     alts:
+  taljin:
+    guild: Ranger
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
   tarlof:
     guild: Warrior Mage
     race: Elothean
@@ -2059,9 +2850,23 @@ contacts:
     relationship:
     notes:
     alts:
+  tasyra:
+    guild: Trader
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
   tearlyn:
     guild: Moon Mage
     race: 
+    circle:
+    relationship:
+    notes:
+    alts:
+  teeklin:
+    guild: Ranger
+    race:
     circle:
     relationship:
     notes:
@@ -2077,6 +2882,13 @@ contacts:
     guild: Warrior Mage
     race: 177
     circle: 177
+    relationship:
+    notes:
+    alts:
+  telrenth:
+    guild: Ranger
+    race:
+    circle:
     relationship:
     notes:
     alts:
@@ -2101,10 +2913,45 @@ contacts:
     relationship:
     notes:
     alts:
+  tezler:
+    guild: Trader
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  theale:
+    guild: Ranger
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  thevelar:
+    guild: Trader
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
   ticrit:
     guild: Bard
     race: Rakash 
     circle: 121
+    relationship:
+    notes:
+    alts:
+  tiddeggur:
+    guild: Trader
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  tirsten:
+    guild: Trader
+    race:
+    circle:
     relationship:
     notes:
     alts:
@@ -2136,6 +2983,13 @@ contacts:
     relationship:
     notes:
     alts:
+  tormosk:
+    guild: Ranger
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
   treiz:
     guild: Moon Mage
     race: 
@@ -2146,6 +3000,20 @@ contacts:
   truix:
     guild: Empath
     race: Prydaen
+    circle:
+    relationship:
+    notes:
+    alts:
+  tsarenzi:
+    guild: Ranger
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  twid:
+    guild: Trader
+    race:
     circle:
     relationship:
     notes:
@@ -2192,9 +3060,23 @@ contacts:
     relationship:
     notes:
     alts:
+  vanari:
+    guild: Trader
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
   vandergrift:
     guild: Barbarian
     race: Human
+    circle:
+    relationship:
+    notes:
+    alts:
+  vandyl:
+    guild: Ranger
+    race:
     circle:
     relationship:
     notes:
@@ -2209,6 +3091,13 @@ contacts:
   vashir:
     guild: Barbarian
     race: Prydaen
+    circle:
+    relationship:
+    notes:
+    alts:
+  veela:
+    guild: Ranger
+    race: Halfling
     circle:
     relationship:
     notes:
@@ -2255,6 +3144,13 @@ contacts:
     relationship:
     notes:
     alts:
+  vowbrum:
+    guild: Trader
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
   vyras:
     guild: Cleric
     race:
@@ -2297,9 +3193,23 @@ contacts:
     relationship:
     notes:
     alts:
+  xelten:
+    guild: Ranger
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
   xenris:
     guild: Bard
     race: Kaldar 
+    circle:
+    relationship:
+    notes:
+    alts:
+  xillix:
+    guild: Ranger
+    race:
     circle:
     relationship:
     notes:
@@ -2325,6 +3235,20 @@ contacts:
     relationship:
     notes:
     alts:
+  yincoh:
+    guild: Ranger
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  yamaga:
+    guild: Trader
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
   yoduh:
     guild: Moon Mage
     race: 
@@ -2335,6 +3259,20 @@ contacts:
   yoldin:
     guild: Moon Mage
     race: 
+    circle:
+    relationship:
+    notes:
+    alts:
+  yuoree:
+    guild: Ranger
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  zalan:
+    guild: Ranger
+    race:
     circle:
     relationship:
     notes:
@@ -2374,9 +3312,37 @@ contacts:
     relationship:
     notes:
     alts:
+  zemon:
+    guild: Trader
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  zephyria:
+    guild: Ranger
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
   zerise:
     guild: Empath
     race: Gnome
+    circle:
+    relationship:
+    notes:
+    alts:
+  ziazu:
+    guild: Ranger
+    race:
+    circle:
+    relationship:
+    notes:
+    alts:
+  zrxa:
+    guild: Ranger
+    race:
     circle:
     relationship:
     notes:
