@@ -78,16 +78,6 @@ before_dying do
   DownstreamHook.remove('stalker')
 end
 
-#for index in 0 ... Names.size
-#	if (Contacts[Names[index]]['guild'] == 'Thief')
-#		Contacts[Names[index]]['guild'] = 'X'
-#	end
-#	if (Contacts[Names[index]]['guild'] == 'Bard')
-#		Contacts[Names[index]]['guild'] = 'D'
-#	end
-#	Stalker.add((Names[index].capitalize),Contacts[Names[index]]['guild'].chr+':'+Names[index].capitalize)
-#end
-
 Names.each do |name|
 	if (Contacts[name]['guild'] == 'Thief')
 		Contacts[name]['guild'] = 'X'
